@@ -55,23 +55,15 @@ Checked for null values and duplicates
 
 Summary statistics (mean, median, distribution)
 
-Trend analysis
-
-Correlation analysis
-
-Data visualizations (bar charts, histograms, line plots)
-
 ### Step 3: Data Cleaning
 
 Handled missing values
-
-Removed duplicates
 
 Standardized column formats
 
 Converted data types
 
-Created derived features (if required)
+Created derived features
 
 ### Step 4: SQL Analysis (SQL Server)
 
@@ -85,13 +77,13 @@ Grouped analysis
 
 Filtering and sorting
 
-Joins (if multiple tables)
+Window Functions, CTEs
 
 Extracted business metrics for reporting
 
 ### Step 5: Power BI Dashboard
 
-Connected Power BI to SQL Server / cleaned dataset
+Connected SQL Server to Power BI / cleaned dataset
 
 Built interactive dashboards including:
 
@@ -102,6 +94,8 @@ Trend analysis charts
 Category breakdowns
 
 Filters & slicers
+
+DAX Calculations
 
 ### Step 6: Report & Presentation
 
@@ -130,6 +124,9 @@ The Power BI dashboard includes:
 🔎 Interactive filters for dynamic exploration
 
 The dashboard is designed to support decision-makers in identifying patterns, opportunities, and improvement areas.
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/82ae902b-349b-4a89-a609-9c7cedea6bfc" />
+
 
 ## 6. Key Results & Insights
 

@@ -43,7 +43,7 @@ Power BI	Dashboard creation and visualization
 Gamma	Presentation (PPT) development
 Jupyter Notebook	Analysis environment
 ## 4. Project Workflow / Steps
-Step 1: Data Loading (Python)
+### Step 1: Data Loading (Python)
 
 Imported dataset using Pandas
 
@@ -51,7 +51,7 @@ Inspected structure (shape, columns, data types)
 
 Checked for null values and duplicates
 
-Step 2: Exploratory Data Analysis (EDA)
+### Step 2: Exploratory Data Analysis (EDA)
 
 Summary statistics (mean, median, distribution)
 
@@ -61,7 +61,7 @@ Correlation analysis
 
 Data visualizations (bar charts, histograms, line plots)
 
-Step 3: Data Cleaning
+### Step 3: Data Cleaning
 
 Handled missing values
 
@@ -73,7 +73,7 @@ Converted data types
 
 Created derived features (if required)
 
-Step 4: SQL Analysis (SQL Server)
+### Step 4: SQL Analysis (SQL Server)
 
 Imported cleaned dataset into SQL Server
 
@@ -89,7 +89,7 @@ Joins (if multiple tables)
 
 Extracted business metrics for reporting
 
-Step 5: Power BI Dashboard
+### Step 5: Power BI Dashboard
 
 Connected Power BI to SQL Server / cleaned dataset
 
@@ -103,7 +103,7 @@ Category breakdowns
 
 Filters & slicers
 
-Step 6: Report & Presentation
+### Step 6: Report & Presentation
 
 Created a structured business report summarizing:
 

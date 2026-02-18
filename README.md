@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Analysis
-1. Overview
+## 1. Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw dataset ingestion to delivering actionable business insights through dashboards and reports.
 
@@ -21,7 +21,7 @@ Presentation development using Gamma
 
 The goal of this project is to showcase practical skills in data analysis, data visualization, and business storytelling.
 
-2. Dataset
+## 2. Dataset
 
 The dataset used in this project contains structured data relevant to business analysis (e.g., sales, customers, operations, or performance metrics).
 
@@ -35,14 +35,14 @@ Business-related KPIs (e.g., revenue, transactions, customer behavior, trends)
 
 The dataset was used to uncover trends, patterns, and insights that support data-driven decision-making.
 
-3. Tools & Technologies
+## 3. Tools & Technologies
 Tool	Purpose
 Python (Pandas, NumPy, Matplotlib, Seaborn)	Data loading, cleaning, and EDA
 SQL Server	Data querying, aggregation, filtering
 Power BI	Dashboard creation and visualization
 Gamma	Presentation (PPT) development
 Jupyter Notebook	Analysis environment
-4. Project Workflow / Steps
+## 4. Project Workflow / Steps
 Step 1: Data Loading (Python)
 
 Imported dataset using Pandas
@@ -115,7 +115,7 @@ Recommendations
 
 Designed a presentation using Gamma to communicate findings clearly to stakeholders
 
-5. Dashboard Highlights
+## 5. Dashboard Highlights
 
 The Power BI dashboard includes:
 
@@ -131,7 +131,7 @@ The Power BI dashboard includes:
 
 The dashboard is designed to support decision-makers in identifying patterns, opportunities, and improvement areas.
 
-6. Key Results & Insights
+## 6. Key Results & Insights
 
 Identified major drivers of performance
 
@@ -143,7 +143,7 @@ Provided data-backed recommendations for optimization
 
 This project demonstrates the ability to transform raw data into meaningful business insights.
 
-7. How to Run the Project
+## 7. How to Run the Project
 Option 1: Python Analysis
 
 Clone this repository
@@ -176,7 +176,7 @@ Refresh data connection (if required)
 
 Interact with filters and visuals
 
-8. Skills Demonstrated
+## 8. Skills Demonstrated
 
 Data Cleaning & Transformation
 
@@ -192,7 +192,7 @@ Stakeholder Communication
 
 End-to-End Data Analytics Workflow
 
-9. Conclusion
+## 9. Conclusion
 
 This project highlights the ability to:
 
